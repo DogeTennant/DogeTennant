@@ -25,7 +25,6 @@ maintenance. Also open to a full-time role on a Minecraft project or a place in 
 | [dCommandLogInterceptor](https://github.com/DogeTennant/dCommandLogInterceptor) | Keeps `/login` and `/register` passwords out of Velocity's logs | GitHub |
 | [dAnnouncements](https://github.com/DogeTennant/dAnnouncements) | Scheduled, eye-catching announcements | GitHub |
 | [OneInTheChamberReborn](https://github.com/DogeTennant/OneInTheChamberReborn) | The One in the Chamber minigame, rebuilt | GitHub |
-| [FluxForge](https://github.com/DogeTennant/FluxForge) | Industrial tech without mods: energy networks, machines, a jetpack | GitHub |
 
 Also built, not public: block logging with rollbacks, a detection-only anticheat with network-wide
 alerts, packet-level vanish for Velocity networks, a battle pass, levelling pets, an RPG system,
