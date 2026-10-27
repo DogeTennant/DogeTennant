@@ -3,12 +3,13 @@
 Minecraft plugin developer - Paper, Purpur, Velocity and BungeeCord.
 
 I'm the active developer of a live Minecraft network (Velocity proxy, several servers, one shared
-MySQL database) and I build my own plugins: 20 so far, about 150,000 lines of Java, with automatic
-tests that run on every change.
+MySQL database) that runs 19 of my own plugins: about 150,000 lines of Java, with automatic tests
+that run on every change.
 
 **Open for commissions:** custom plugins, fixes and updates for existing plugins, monthly
 maintenance. Also open to a full-time role on a Minecraft project or a place in a dev team.
-Discord: `DogeTennant`
+[Services and prices on BuiltByBit](https://builtbybit.com/threads/open-dogetennant-paper-velocity-plugin-development.743456/)
+· Discord: `DogeTennant`
 
 ## Plugins
 
